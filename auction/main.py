@@ -1,7 +1,6 @@
 import json
 import logging
 import sys
-import os
 
 from auction.run_auctions import load_configs, process_auctions
 
